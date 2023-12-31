@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "2023-12-30\nNodeJS server to demonstrate React, Redux, Express and MongoDB",
+  "main": "index.js",
+  "engines": {
+    "comments": "These are the versions of node and npm as of 2023-12-30",
+    "node": "21.2.0",
+    "npm": "10.2.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Karl G. Kowalski",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
